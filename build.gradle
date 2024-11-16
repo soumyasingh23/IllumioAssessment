@@ -15,11 +15,15 @@ repositories {
 dependencies {
     implementation 'org.projectlombok:lombok:1.18.22'
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
-    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
-    implementation 'com.opencsv:opencsv:5.9'
     annotationProcessor 'org.projectlombok:lombok:1.18.28'
 }
 
 test {
     useJUnitPlatform()
 }
+
+apply plugin: 'application'
+mainClassName = "main.Main"
+applicationDefaultJvmArgs = [
+        "-Djava.util.logging.config.file=src/main/resources/logging.properties"
+]

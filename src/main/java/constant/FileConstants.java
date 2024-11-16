@@ -1,6 +1,6 @@
 package constant;
 
-public class FileConstant {
+public class FileConstants {
 
     public static String LOOKUP_FILE = "LookupTable.csv";
     public static String PROTOCOL_MAPPING_FILE = "protocol-numbers-1.csv";

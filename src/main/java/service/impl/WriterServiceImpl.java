@@ -8,7 +8,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Map;
 
-import static constant.FileConstant.*;
+import static constant.FileConstants.*;
 
 public class WriterServiceImpl implements WriterService {
 
