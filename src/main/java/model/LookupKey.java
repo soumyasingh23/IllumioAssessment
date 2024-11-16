@@ -14,9 +14,11 @@ public class LookupKey {
     private int dstport;
     private String tag;
 
+    public LookupKey() {
+    }
 
     @Override
     public String toString() {
-        return dstport + " " + tag;
+        return dstport + "," + tag;
     }
 }
