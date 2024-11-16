@@ -31,4 +31,5 @@ Tested the project with different combinations of log flow inputs and lookup tab
 This is a Gradle project, can be run using the commands below-
 
 ./gradlew build 
+
 ./gradlew run

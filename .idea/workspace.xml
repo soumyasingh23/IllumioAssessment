@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5161d6bf-e877-441e-91e9-cede767f2b56" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/service/MetadataService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/MetadataService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/service/impl/LogProcessorServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/impl/LogProcessorServiceImpl.java" afterDir="false" />
-    </list>
+    <list default="true" id="5161d6bf-e877-441e-91e9-cede767f2b56" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -207,7 +204,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/service/MetadataService.java</url>
-          <line>48</line>
+          <line>46</line>
           <properties>
             <option name="lambda-ordinal" value="-1" />
           </properties>
