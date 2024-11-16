@@ -44,7 +44,6 @@ public class LogProcessorServiceImpl implements LogProcessorService {
             tagCountMap.put("untagged", value);
         }
         exportData();
-
     }
 
     void processTagCount(LogEntry logEntry) {

@@ -10,9 +10,7 @@ import static constant.FileConstants.*;
 
 
 public class MetadataService {
-    private static ReaderService readerService;
-
-
+    private ReaderService readerService;
 
     private Map<Integer, String> protocolMap;
     private Map<LookupKey, String> tagMap;

@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5161d6bf-e877-441e-91e9-cede767f2b56" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/port_protocol_combo_count_output.csv" beforeDir="false" afterPath="$PROJECT_DIR$/port_protocol_combo_count_output.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/constant/FileConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/constant/FileConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/service/CountService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/service/CsvWriter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/service/LogService.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/service/MetadataService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/MetadataService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/service/ReaderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/ReaderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/service/impl/CountServiceImpl.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/service/impl/LogProcessorServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/impl/LogProcessorServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/service/impl/WriterServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/impl/WriterServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/service/CountServiceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag_count_output.csv" beforeDir="false" afterPath="$PROJECT_DIR$/tag_count_output.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

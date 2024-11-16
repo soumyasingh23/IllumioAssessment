@@ -3,6 +3,7 @@ This project processes the input log file and determines a) Unique tag value and
 
 Running this project generates two files - port_protocol_combo_count_output.csv and tag_count_output.csv
 
+Tested the project with different combinations of log flow inputs and lookup table combinations.
 
 ### Implementation
 - Metadataservice reads the static metadata from port and lookup csv files. The following maps are computed:
@@ -24,6 +25,7 @@ Running this project generates two files - port_protocol_combo_count_output.csv 
 ### Future enhancements
    1. Metadata (lookup table and key-tag mapping) can be cached
    2. The count maps (tag and port-protocol combination) can be computed using parallel streams
+   3. Input data validation before processing 
 
 ### Running the Project
 This is a Gradle project, can be run using the commands below-
